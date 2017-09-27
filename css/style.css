@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+i, b {
+  font-weight: normal;
+  font-style: normal; }
+
+.box {
+  width: 1080px;
+  height: 1920px;
+  background: url(../img/3.png) no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  padding-top: 20px;
+  position: relative; }
+  .box .head p {
+    width: 100%;
+    height: 134px;
+    line-height: 134px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center; }
+    .box .head p span {
+      margin-right: 20px;
+      font-size: 35px;
+      color: #41bdf1; }
+    .box .head p b {
+      font-size: 35px;
+      color: #0aca81; }
+  .box .tu {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    position: absolute;
+    left: 270px;
+    top: 183px; }
+    .box .tu img {
+      width: 100%;
+      border-radius: 50%; }
+  .box .tu1 {
+    width: 207px;
+    height: 207px;
+    position: absolute;
+    top: 311px;
+    left: 45px; }
+    .box .tu1 img {
+      width: 100%;
+      border-radius: 50%; }
+  .box .tu2 {
+    width: 264px;
+    height: 264px;
+    position: absolute;
+    left: 101px;
+    top: 550px; }
+    .box .tu2 img {
+      width: 264px;
+      height: 264px;
+      border-radius: 50%; }
+  .box .tu3 {
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    top: 918px;
+    right: 143px; }
+    .box .tu3 img {
+      width: 100%;
+      border-radius: 50%; }
+  .box .tu4 {
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    bottom: 455px;
+    left: 108px; }
+    .box .tu4 img {
+      width: 100%;
+      border-radius: 50%; }
+  .box .tu5 {
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    bottom: 95px;
+    right: 143px; }
+    .box .tu5 img {
+      width: 220px;
+      height: 220px;
+      border-radius: 50%; }
+
+.wenz {
+  width: 610px;
+  height: 659px;
+  float: right;
+  color: #fff;
+  padding-top: 96px;
+  padding-left: 50px;
+  padding-right: 40px; }
+  .wenz .h1 {
+    width: 100%;
+    height: 150px;
+    text-align: right; }
+  .wenz h1 {
+    font-size: 60px; }
+  .wenz h4 {
+    font-size: 25px; }
+  .wenz p {
+    text-indent: 2em;
+    font-size: 23px;
+    line-height: 30px;
+    margin-bottom: 20px; }
+
+.d, .d1, .d2 {
+  width: 300px;
+  height: 100px;
+  text-align: center; }
+  .d p, .d1 p, .d2 p {
+    line-height: 50px;
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #fff; }
+  .d span, .d1 span, .d2 span {
+    margin: 10px;
+    color: #fff; }
+
+.d {
+  position: absolute;
+  left: 280px;
+  bottom: 860px; }
+
+.d1 {
+  position: absolute;
+  left: 280px;
+  bottom: 150px; }
+
+.d2 {
+  position: absolute;
+  right: 330px;
+  bottom: 510px; }
+
+/*# sourceMappingURL=style.css.map */
